@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AD5/SCL Pin=j2-1
+Removed Pin From Net: NetName=AD4/SDA Pin=j2-2
+Removed Pin From Net: NetName=AD3 Pin=j2-3
+Removed Pin From Net: NetName=AD1 Pin=j2-5
+Removed Pin From Net: NetName=AD3 Pin=U1-26
+Added Pin To Net: NetName=AD1 Pin=j2-2
+Added Pin To Net: NetName=AD3 Pin=j2-4
+Added Pin To Net: NetName=AD4/SDA Pin=j2-5
+Added Pin To Net: NetName=AD5/SCL Pin=j2-6
+Added Pin To Net: NetName=Netj2_1 Pin=j2-1
+Added Pin To Net: NetName=Netj2_1 Pin=U1-23
+Added Net: Name=Netj2_1
+Added Pin To Net: NetName=Netj2_3 Pin=j2-3
+Added Pin To Net: NetName=Netj2_3 Pin=U1-25
+Added Net: Name=Netj2_3

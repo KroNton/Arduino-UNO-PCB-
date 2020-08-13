@@ -1,0 +1,43 @@
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3V3 16U2 UCAP Pin=C7-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C8-1
+Added Pin To Net: NetName=16U2 16MHZ XTAL1 Pin=C9-1
+Added Pin To Net: NetName=16U2 16MHZ XTAL2 Pin=C10-1
+Added Pin To Net: NetName=328P AUTORESETn Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C14-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C15-1
+Added Pin To Net: NetName=+3V3 Pin=C16-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C17-1
+Added Pin To Net: NetName=+5V/3V3 328P VCC Pin=C19-1
+Added Pin To Net: NetName=+5V/3V3 328P VCC Pin=C20-1
+Added Pin To Net: NetName=AD4/SDA Pin=C21-1
+Added Pin To Net: NetName=+5V/3V3 328P AVCC Pin=C22-1
+Added Pin To Net: NetName=+5V/3V3 328P AVCC Pin=C23-1
+Added Pin To Net: NetName=AD4/SDA Pin=C24-1
+Added Pin To Net: NetName=328P 16MHZ XTAL1 Pin=C25-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C26-1
+Added Pin To Net: NetName=328P 16MHZ XTAL2 Pin=C27-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C28-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C29-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C30-1
+Added Pin To Net: NetName=16U2 BUF RESETn Pin=C31-1
+Added Pin To Net: NetName=328P BUF RESETn Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=+5V/3V3 Pin=C34-1
+Added Pin To Net: NetName=+5V/3V3 Pin=D5-1
+Added Pin To Net: NetName=+5V/3V3 Pin=D6-1
+Added Pin To Net: NetName=BUTTON RESETn Pin=D6-2
+Added Pin To Net: NetName=328P 16MHZ XTAL2 Pin=Y1-1
+Added Pin To Net: NetName=328P 16MHZ XTAL1 Pin=Y1-2
+Added Pin To Net: NetName=16U2 16MHZ XTAL2 Pin=Y2-1
+Added Pin To Net: NetName=16U2 16MHZ XTAL1 Pin=Y2-2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R19-2
+Added Pin To Net: NetName=NetD5_2 Pin=R23-2
+Added Net: Name=NetD5_2

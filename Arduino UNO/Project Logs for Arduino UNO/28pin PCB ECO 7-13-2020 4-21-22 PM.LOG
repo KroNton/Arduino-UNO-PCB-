@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AD4/SDA Pin=j2-5
+Removed Pin From Net: NetName=AD4/SDA Pin=j4-9
+Removed Pin From Net: NetName=AD4/SDA Pin=U1-27
+Change Net Name : Old Net Name=AD4/SDA New Net Name=+AREF
+Added Pin To Net: NetName=AD4/SDA Pin=j2-5
+Added Pin To Net: NetName=AD4/SDA Pin=j4-9
+Added Pin To Net: NetName=AD4/SDA Pin=U1-27
+Added Net: Name=AD4/SDA

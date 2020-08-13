@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=NetC3_1 Pin=C4-1
+Removed Pin From Net: NetName=NetC3_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=USER BUTTON BUF Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C8-2
+Added Pin To Net: NetName=16U2 16MHZ XTAL1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=16U2 16MHZ XTAL2 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=328P AUTORESETn Pin=C11-2
+Added Pin To Net: NetName=+5V Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=+5V Pin=C14-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C15-2
+Added Pin To Net: NetName=+3V3 Pin=C16-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C17-2
+Added Pin To Net: NetName=+5V/3V3 328P VCC Pin=C19-2
+Added Pin To Net: NetName=+5V/3V3 328P VCC Pin=C20-2
+Added Pin To Net: NetName=AD4/SDA Pin=C21-2
+Added Pin To Net: NetName=+5V/3V3 328P AVCC Pin=C22-2
+Added Pin To Net: NetName=+5V/3V3 328P AVCC Pin=C23-2
+Added Pin To Net: NetName=AD4/SDA Pin=C24-2
+Added Pin To Net: NetName=328P 16MHZ XTAL1 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C26-2
+Added Pin To Net: NetName=328P 16MHZ XTAL2 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C28-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C29-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C30-2
+Added Pin To Net: NetName=16U2 BUF RESETn Pin=C31-2
+Added Pin To Net: NetName=328P BUF RESETn Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=USER BUTTON BUF Pin=C33-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C34-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC3_2
